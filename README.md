@@ -88,11 +88,6 @@ All steps are implemented using Python and Jupyter notebooks.
 │   ├── 03_anomaly_detection.ipynb
 │   └── 04_predictive_indicators.ipynb
 │
-├── processed/
-│   ├── enrolment_clean.csv
-│   ├── demographic_clean.csv
-│   └── biometric_clean.csv
-│
 ├── figures/
 │   ├── alimf_framework.png
 │   ├── univariate_enrolment.png
