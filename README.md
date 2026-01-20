@@ -45,6 +45,14 @@ The datasets support univariate, bivariate, and trivariate analyses at temporal 
 
 ---
 
+## 📁 Data Availability Note
+
+The Aadhaar datasets used in this project are aggregated and anonymised datasets provided by UIDAI as part of the hackathon.
+
+Due to file size constraints and data usage guidelines, processed CSV files are not included in this repository. All data processing steps are fully documented in the notebooks, and the analysis can be reproduced by re-running the notebooks using the original datasets provided by UIDAI.
+
+---
+
 ## 🔍 Methodology
 
 The analysis follows a structured and reproducible workflow:
@@ -94,3 +102,14 @@ All steps are implemented using Python and Jupyter notebooks.
 │   └── prediction_trend.png
 │
 └── README.md
+
+
+```
+
+---
+
+## ℹ️ Context
+
+This project was developed as part of the UIDAI Data Hackathon 2026.  
+Additional information about the hackathon and datasets is available on the official UIDAI hackathon portal.
+
