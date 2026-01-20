@@ -96,6 +96,8 @@ All steps are implemented using Python and Jupyter notebooks.
 │   ├── demographic_anomaly.png
 │   └── prediction_trend.png
 │
+|── LICENSE
+|
 └── README.md
 
 
