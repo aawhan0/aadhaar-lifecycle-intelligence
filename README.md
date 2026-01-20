@@ -98,6 +98,8 @@ All steps are implemented using Python and Jupyter notebooks.
 │
 |── LICENSE
 |
+|── UIDAI_14145_Aadhaar_Lifecycle_Intelligence.pdf
+|
 └── README.md
 
 
